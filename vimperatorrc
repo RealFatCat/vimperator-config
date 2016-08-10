@@ -2,6 +2,7 @@
 
 noremap j 5j
 noremap k 5k
+set focuscontent
 set gui=noaddons,nobookmarks,nomenu,nonavigation,tabs
 set editor="/usr/bin/terminator -x /usr/bin/vim"
 inoremap <Leader>i <C-i>
